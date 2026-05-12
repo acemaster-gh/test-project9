@@ -6,10 +6,10 @@
 
 
 ## Live Demo
-not-deployed
+https://beautiful-truffle-407a47.netlify.app
 
 ## Repo
-pending
+https://github.com/acemaster-gh/test-project9
 
 ## Built With
 - HTML
